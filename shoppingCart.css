@@ -1,0 +1,39 @@
+.inline{
+	display:inline-block;
+}
+.font-size{
+	font-size:565%;
+}
+.s-item-container{
+	padding:25px 15px;
+	border-bottom:2px solid;
+}
+.header-prop {
+	
+height:142px;
+border-bottom:2px solid;
+}
+
+.item-caption{
+	width:100%;
+	border-bottom:5px solid grey;
+	padding-bottom:10px;
+	
+}
+.item-caption .width-70{
+	width:68%;
+	margin-left:10px;
+}
+.item-caption .width-10,.width-9{
+	width:9%;
+}
+
+.width-50{
+	width:50%;
+}
+.width-20{
+	width:20%;
+}
+.width-30{
+	width:30%;
+}
